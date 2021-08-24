@@ -1,3 +1,18 @@
 body {
     font-family: 'Georama', sans-serif;
 }
+
+.discounts {
+    border-radius: 3px;
+    box-shadow: 2px 2px 4px 0px rgba(150,150,150,1);
+}
+
+.jumbotron, .discounts {
+    border: 1px solid #cecece;
+}
+
+.toast {
+    position: absolute;
+    top: 85px;
+    right: 10px;
+}
